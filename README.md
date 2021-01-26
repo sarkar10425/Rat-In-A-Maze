@@ -13,11 +13,11 @@ In the project directory, you can run:
 
 * The app is built with ReactJs.
 
-##Screenshots
+## Screenshots
 
 
 
-##How to start
+## How to start
 
 * ```git clone```
 * ```cd Rat-In-A-Maze```
