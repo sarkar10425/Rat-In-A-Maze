@@ -15,8 +15,8 @@ In the project directory, you can run:
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1jfD3N6LBnhC2a_oh3yhYqA9CDhum5NOw/view?usp=sharing)
-![](https://drive.google.com/file/d/1HTE2poFTt3q4l11ocImjEpzD3R2H2r5S/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1jfD3N6LBnhC2a_oh3yhYqA9CDhum5NOw/view?usp=sharing)
+![Screenshot 2](https://drive.google.com/file/d/1HTE2poFTt3q4l11ocImjEpzD3R2H2r5S/view?usp=sharing)
 
 ## How to start
 
