@@ -15,8 +15,8 @@ In the project directory, you can run:
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/sarkar10425/Rat-In-A-Maze/blob/main/Screenshot%20(1224).png =250x250)
-![Screenshot 2](https://github.com/sarkar10425/Rat-In-A-Maze/blob/main/Screenshot%20(1225).png =250x250)
+![Screenshot 1](https://github.com/sarkar10425/Rat-In-A-Maze/blob/main/Screenshot%20(1224).png)
+![Screenshot 2](https://github.com/sarkar10425/Rat-In-A-Maze/blob/main/Screenshot%20(1225).png)
 
 ## How to start
 
