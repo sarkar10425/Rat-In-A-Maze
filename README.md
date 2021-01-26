@@ -3,8 +3,8 @@
 
 * The constraints are :
 
-*1 Rat can't go outside the maze
-*2 Rat can't pass through the red cell
-*3 Rat can go 1 step (up, down, right, left) at a time.
+** Rat can't go outside the maze
+** Rat can't pass through the red cell
+** Rat can go 1 step (up, down, right, left) at a time.
 
 * The app is built with ReactJs.
