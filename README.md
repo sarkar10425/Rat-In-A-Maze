@@ -12,3 +12,15 @@ In the project directory, you can run:
     * Rat can go 1 step (up, down, right, left) at a time.
 
 * The app is built with ReactJs.
+
+##Screenshots
+
+
+
+##How to start
+
+* ```git clone```
+* ```cd Rat-In-A-Maze```
+* ```npm start```
+
+
