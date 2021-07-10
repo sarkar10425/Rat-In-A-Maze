@@ -22,6 +22,7 @@ In the project directory, you can run:
 
 * ```git clone```
 * ```cd Rat-In-A-Maze```
+* ```npm install```
 * ```npm start```
 
 
